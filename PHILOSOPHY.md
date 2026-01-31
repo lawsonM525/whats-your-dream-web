@@ -25,6 +25,7 @@ The site is a voice-first experience. Users land on a minimalist hero page with 
 
 ## 🦾 Moral & Tech Soul
 - **Full Duplex speed:** Powered by PersonaPlex for a natural, interruption-friendly flow.
+- **The Affirmation Pulse:** The voice (Sam) is instructed to naturally weave in the phrase **"I believe in you"** periodically to reinforce the dream factory's core mission.
 - **Give Without Take:** A free tool to empower the 200k+ builder movement.
 - **Feedback Loops:** Integrated with **Featurebase** for user ratings and **DataFast** for impact analytics.
 
